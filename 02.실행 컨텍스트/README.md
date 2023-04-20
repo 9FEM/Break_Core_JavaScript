@@ -6,6 +6,7 @@
 
 김서영, 백수연, 차다연
 
-### 2-2. ~ 2-3. VariableEnvironment, LexicalEnvironment
+### 2-2. VariableEnvironment
+### 2-3. LexicalEnvironment
 
 이도하, 김소연, 김도경, 조병현
