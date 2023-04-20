@@ -16,6 +16,77 @@ Core JavaScript 도서 뿌수기
 - 지난번 읽은 챕터는 조끼리 발표 준비
   <br>
 
+## 스터디원
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/d-charlie-kim"
+        ><img
+          src="https://avatars.githubusercontent.com/d-charlie-kim"
+          width="150px;"
+          alt=""
+        /><br /><sub><b>찰리</b></sub></a
+      ><br />
+    </td>
+       <td align="center">
+      <a href="https://github.com/ChoByungHyun"
+        ><img
+          src="https://avatars.githubusercontent.com/ChoByungHyun"
+          width="150px;"
+          alt=""
+        /><br /><sub><b>PIG</b></sub></a
+      ><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/Da-Youn"
+        ><img
+          src="https://avatars.githubusercontent.com/Da-Youn"
+          width="150px;"
+          alt=""
+        /><br /><sub><b>다연</b></sub></a
+      ><br />
+      </td>
+    <td align="center">
+      <a href="https://github.com/doong2imdang"
+        ><img
+          src="https://avatars.githubusercontent.com/doong2imdang"
+          width="150px;"
+          alt=""
+        /><br /><sub><b>둥1</b></sub></a
+      ><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/haron-lee"
+        ><img
+          src="https://avatars.githubusercontent.com/haron-lee"
+          width="150px;"
+          alt=""
+        /><br /><sub><b>도하</b></sub></a
+      ><br />
+    </td>
+      
+  <td align="center">
+      <a href="https://github.com/sy412"
+        ><img
+          src="https://avatars.githubusercontent.com/sy412"
+          width="150px;"
+          alt=""
+        /><br /><sub><b>소연</b></sub></a
+      ><br />
+    </td>
+  <td align="center">
+      <a href="https://github.com/sypaik-dev"
+        ><img
+          src="https://avatars.githubusercontent.com/sypaik-dev"
+          width="150px;"
+          alt=""
+        /><br /><sub><b>수연</b></sub></a
+      ><br />
+    </td>
+  </tr>
+</table>
+
+
 ## 발표
 
 ### 01. 데이터 타입
