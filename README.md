@@ -91,6 +91,6 @@ Core JavaScript 도서 뿌수기
 
 ### 01. 데이터 타입
 
-- [1-3. 변수선언과 데이터할당](https://github.com/9FEM/Break_Core_JavaScript/blob/main/01.%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/1-3.%EB%B3%80%EC%88%98%EC%84%A0%EC%96%B8%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%95%A0%EB%8B%B9.pdf)
-- [1-4. 기본형 데이터와 참조형 데이터](https://www.canva.com/design/DAFfsn4kHcg/m8KQ18SSJPbWCNT9FDHgKQ/view?utm_content=DAFfsn4kHcg&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
-- [1-5. 불변객체](https://www.canva.com/design/DAFfzWqDzRI/ZTagZbeP-Jfo0E02mzyh2w/view?utm_content=DAFfzWqDzRI&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+- [1-3. 변수선언과 데이터할당 (이도하, 김도경)](https://github.com/9FEM/Break_Core_JavaScript/blob/main/01.%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/1-3.%EB%B3%80%EC%88%98%EC%84%A0%EC%96%B8%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%95%A0%EB%8B%B9.pdf)
+- [1-4. 기본형 데이터와 참조형 데이터 (김소연, 차다연, 조병현)](https://www.canva.com/design/DAFfsn4kHcg/m8KQ18SSJPbWCNT9FDHgKQ/view?utm_content=DAFfsn4kHcg&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+- [1-5. 불변객체 (김서영, 백수연)](https://www.canva.com/design/DAFfzWqDzRI/ZTagZbeP-Jfo0E02mzyh2w/view?utm_content=DAFfzWqDzRI&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
