@@ -9,3 +9,7 @@
 ### 2-2. VariableEnvironment ~ 2-3. LexicalEnvironment
 
 이도하, 김소연, 김도경, 조병현
+
+### 2-3-2. 스코프, 스코프체인, Debugger
+
+김서영, 이도하, 김도경
