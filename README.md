@@ -105,11 +105,11 @@ Core JavaScript 도서 뿌수기
 
 - [2-3-2. 스코프, 스코프체인, Debugger (김서영, 이도하, 김도경)](https://github.com/9FEM/Break_Core_JavaScript/blob/main/02.%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/2-3-2.%20%EC%8A%A4%EC%BD%94%ED%94%84%2C%20%EC%8A%A4%EC%BD%94%ED%94%84%EC%B2%B4%EC%9D%B8.md)
 
-- [2-4. this 정리 (차다연, 조병현)] (https://github.com/9FEM/Break_Core_JavaScript/blob/main/02.%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/2-4.%20this%2C%20%EC%A0%95%EB%A6%AC.md)
+- [2-4. this 정리 (차다연, 조병현)](https://github.com/9FEM/Break_Core_JavaScript/blob/main/02.%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/2-4.%20this%2C%20%EC%A0%95%EB%A6%AC.md)
 
 <br>
 
 ### 03. this
 
-- [3-1-1. 전역 공간에서의 this (차다연, 조병현)] (https://github.com/9FEM/Break_Core_JavaScript/blob/main/03.this/3-1-1.%20%EC%A0%84%EC%97%AD%EA%B3%B5%EA%B0%84%EC%97%90%EC%84%9C%EC%9D%98%20this.md)
+- [3-1-1. 전역 공간에서의 this (차다연, 조병현)](https://github.com/9FEM/Break_Core_JavaScript/blob/main/03.this/3-1-1.%20%EC%A0%84%EC%97%AD%EA%B3%B5%EA%B0%84%EC%97%90%EC%84%9C%EC%9D%98%20this.md)
 - [3-1-2. 메서드로서 호출할 때 그 메서드 내부에서의 this (백수연, 김소연)](https://github.com/9FEM/Break_Core_JavaScript/blob/main/03.this/3-1-2.%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%A1%9C%EC%84%9C%20%ED%98%B8%EC%B6%9C%ED%95%A0%20%EB%95%8C%20%EA%B7%B8%20%EB%A9%94%EC%84%9C%EB%93%9C%20%EB%82%B4%EB%B6%80%EC%97%90%EC%84%9C%EC%9D%98%20this.md)
