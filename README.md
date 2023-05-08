@@ -113,5 +113,9 @@ Core JavaScript 도서 뿌수기
 
 - [3-1-1. 전역 공간에서의 this (차다연, 조병현)](https://github.com/9FEM/Break_Core_JavaScript/blob/main/03.this/3-1-1.%20%EC%A0%84%EC%97%AD%EA%B3%B5%EA%B0%84%EC%97%90%EC%84%9C%EC%9D%98%20this.md)
 - [3-1-2. 메서드로서 호출할 때 그 메서드 내부에서의 this (백수연, 김소연)](https://github.com/9FEM/Break_Core_JavaScript/blob/main/03.this/3-1-2.%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%A1%9C%EC%84%9C%20%ED%98%B8%EC%B6%9C%ED%95%A0%20%EB%95%8C%20%EA%B7%B8%20%EB%A9%94%EC%84%9C%EB%93%9C%20%EB%82%B4%EB%B6%80%EC%97%90%EC%84%9C%EC%9D%98%20this.md)
-- [3-1-3. 함수 호출시 그 함수 내부에서의 this (백수연, 김도경](https://github.com/9FEM/Break_Core_JavaScript/blob/main/03.this/3-1-3.%20%ED%95%A8%EC%88%98%20%ED%98%B8%EC%B6%9C%EC%8B%9C%20%EA%B7%B8%20%ED%95%A8%EC%88%98%20%EB%82%B4%EB%B6%80%EC%97%90%EC%84%9C%EC%9D%98%20this.md)
-- [3-1-4. 콜백 함수 호출 시 그 함수 내부에서의 this (백수연, 김도경](https://github.com/9FEM/Break_Core_JavaScript/blob/main/03.this/3-1-4.%20%EC%BD%9C%EB%B0%B1%20%ED%98%B8%EC%B6%9C%EC%8B%9C%20%EA%B7%B8%20%ED%95%A8%EC%88%98%20%EB%82%B4%EB%B6%80%EC%97%90%EC%84%9C%EC%9D%98%20this.md)
+- [3-1-3. 함수 호출시 그 함수 내부에서의 this (백수연, 김도경)](https://github.com/9FEM/Break_Core_JavaScript/blob/main/03.this/3-1-3.%20%ED%95%A8%EC%88%98%20%ED%98%B8%EC%B6%9C%EC%8B%9C%20%EA%B7%B8%20%ED%95%A8%EC%88%98%20%EB%82%B4%EB%B6%80%EC%97%90%EC%84%9C%EC%9D%98%20this.md)
+- [3-1-4. 콜백 함수 호출 시 그 함수 내부에서의 this (백수연, 김도경)](https://github.com/9FEM/Break_Core_JavaScript/blob/main/03.this/3-1-4.%20%EC%BD%9C%EB%B0%B1%20%ED%98%B8%EC%B6%9C%EC%8B%9C%20%EA%B7%B8%20%ED%95%A8%EC%88%98%20%EB%82%B4%EB%B6%80%EC%97%90%EC%84%9C%EC%9D%98%20this.md)
+- [3-1-5. 생성자 함수 내부에서의 this (김서영, 조병현)](https://github.com/9FEM/Break_Core_JavaScript/blob/main/03.this/3-1-5.%20%EC%83%9D%EC%84%B1%EC%9E%90%20%ED%95%A8%EC%88%98%20%EB%82%B4%EB%B6%80%EC%97%90%EC%84%9C%EC%9D%98%20this.md)
+- [3-2-1. call 메서드 (김서영, 조병현)](https://github.com/9FEM/Break_Core_JavaScript/blob/main/03.this/3-2-1%20call%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
+- [3-2-2. apply 메서드 (김서영, 조병현)](https://github.com/9FEM/Break_Core_JavaScript/blob/main/03.this/3-2-2%20apply%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
+- [3-2-3. call / apply 메서드의 활용 (이도하, 차다연, 김소연)](https://github.com/9FEM/Break_Core_JavaScript/blob/main/03.this/3-2-3%20call%2Capply%20%EB%A9%94%EC%84%9C%EB%93%9C%EC%9D%98%20%ED%99%9C%EC%9A%A9.md)
