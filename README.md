@@ -102,9 +102,7 @@ Core JavaScript 도서 뿌수기
 - [2-1. 실행 컨스트란? (김서영, 백수연, 차다연)](<https://github.com/9FEM/Break_Core_JavaScript/blob/main/02.%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/2-1.%20%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%9E%80%3F%20(with.%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0).md>)
 - [2-2. VariableEnvironment (이도하, 김소연, 김도경, 조병현)](https://github.com/9FEM/Break_Core_JavaScript/blob/main/02.%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/variableEnvironment.md)
 - [2-3. LexicalEnvironment (이도하, 김소연, 김도경, 조병현)](https://github.com/9FEM/Break_Core_JavaScript/blob/main/02.%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/LexicalEnvironment.md)
-
 - [2-3-2. 스코프, 스코프체인, Debugger (김서영, 이도하, 김도경)](https://github.com/9FEM/Break_Core_JavaScript/blob/main/02.%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/2-3-2.%20%EC%8A%A4%EC%BD%94%ED%94%84%2C%20%EC%8A%A4%EC%BD%94%ED%94%84%EC%B2%B4%EC%9D%B8.md)
-
 - [2-4. this 정리 (차다연, 조병현)](https://github.com/9FEM/Break_Core_JavaScript/blob/main/02.%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/2-4.%20this%2C%20%EC%A0%95%EB%A6%AC.md)
 
 <br>
